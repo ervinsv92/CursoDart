@@ -40,7 +40,7 @@ main(){
   int i = 10;
   String j = '10';
 
-  print(i is int); // devuelve si la variable es del tipo de dato que se le indica
-  print(j is int);
+  print(i is  int); // devuelve si la variable es del tipo de dato que se le indica
+  print(j is  int);
   print(j is! int); //negacion del is es con el ! despues del is
 }
