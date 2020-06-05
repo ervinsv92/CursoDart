@@ -94,6 +94,9 @@ Este es un
     10:'Nivel energia'
   };
 
+  ironman3['edad'] = '40';
+
+  print(ironman3);
   //print(ironman);
   //print(ironman['nombre']);
  //print(ironman3[10]);
@@ -101,5 +104,5 @@ Este es un
   Map<String, dynamic> capitan = new Map();
   capitan.addAll({'nombre':'Steve', 'poder':'soportar suero'});
 
-  print(capitan);
+  //print(capitan);
 }
